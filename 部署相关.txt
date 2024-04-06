@@ -1,0 +1,12 @@
+PHP版本 7.3
+
+mysql版本 8.0
+
+
+部署地址
+
+http://shujukushixi.shilight.cn/
+
+管理员账号 密码
+
+admin / 12345
